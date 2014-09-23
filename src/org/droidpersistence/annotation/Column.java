@@ -1,5 +1,5 @@
 /**
- * @author Douglas Cavalheiro (doug.cav@ig.com.br)
+ * @author Alessandra Dias
  */
 
 package org.droidpersistence.annotation;
